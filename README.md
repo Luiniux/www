@@ -1,2 +1,2 @@
-#The code of www.luiniux.com/luinix.com
+#The code of http://www.luiniux.com http://luinix.com
 ##个人网页代码～～～
